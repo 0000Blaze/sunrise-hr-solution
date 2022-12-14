@@ -150,7 +150,7 @@ body{
 .home{
     min-height: 100vh;
     width: 100vw;
-    background-image: url(../images/img1.jpg);
+    background-image: url(../images/front2.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -328,7 +328,7 @@ body{
   }   
 
 .counters {
-	background-image: url(../images/img2.jpg);
+	background-image: url(../images/counters.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -459,7 +459,7 @@ body{
 .communicate{
     text-align: center;
     align-items: center;
-    background-image: url(../images/img3.jpg);
+    background-image: url(../images/communicate.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -1010,7 +1010,7 @@ body{
             width: 100vw;
             text-align: center;
             padding: 0 2rem;
-            background: url(../images/faq.jpg);
+            background: url(../images/faq-b.jpg);
             background-repeat: no-repeat;
             background-size: cover;
         }
