@@ -639,3 +639,14 @@ body {
     font-size: 1.5rem;
   }
 }
+
+.categories_name {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  max-width: 90%;
+}
+
+.categories_name h3 {
+  margin: 1.5rem 3rem 1.5rem 0;
+}
