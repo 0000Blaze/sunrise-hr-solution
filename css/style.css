@@ -1112,7 +1112,6 @@ body {
 @media (max-width: 1000px) {
   html {
     font-size: 50%;
-    overflow: hidden !important;
   }
 
   .header .logo img {
