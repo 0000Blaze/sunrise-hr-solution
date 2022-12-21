@@ -1378,17 +1378,14 @@ body {
   font-size: 15px;
   padding: 10px;
 }
-/* .custom-flex
-{
-    display: flex;
-    justify-content: space-evenly;
-    border: 1px solid black;
-    padding: 60px;
-    border-radius: 20px;
 
-    
-} */
-/* .custom-paragraph{
-    width: 600px;
-    margin-top: 20px;
-} */
+.custom-map{
+  border: 2px solid rgba(41, 40, 40, 0.07);
+  border-radius: 15px;
+  background-color: #ffffff;
+  box-shadow: 2px 4px .5 rgba(0, 0, 0, 0.07);
+}
+
+.custom-form-map{
+  background-color: #f2f2f2;
+}
