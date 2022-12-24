@@ -503,7 +503,7 @@ body {
 
 .testimonials .testimonial-item {
   position: relative;
-  margin: 0 15px 30px 15px;
+  margin: 0;
   background: #ffffff;
 }
 .custom-outline {
@@ -579,7 +579,7 @@ body {
   background-color: #4f84c4;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 575px) {
   .testimonials .testimonial-text {
     padding: 25px;
   }
