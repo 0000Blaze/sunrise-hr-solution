@@ -579,7 +579,7 @@ body {
   background-color: #4f84c4;
 }
 
-@media (max-width: 575px) {
+@media (max-width: 1080px) {
   .testimonials .testimonial-text {
     padding: 25px;
   }
@@ -1379,13 +1379,13 @@ body {
   padding: 10px;
 }
 
-.custom-map{
+.custom-map {
   border: 2px solid rgba(41, 40, 40, 0.07);
   border-radius: 15px;
   background-color: #ffffff;
-  box-shadow: 2px 4px .5 rgba(0, 0, 0, 0.07);
+  box-shadow: 2px 4px 0.5 rgba(0, 0, 0, 0.07);
 }
 
-.custom-form-map{
+.custom-form-map {
   background-color: #f2f2f2;
 }
