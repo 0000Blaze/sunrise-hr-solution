@@ -518,8 +518,8 @@ body {
   border: 1px solid black;
 }
 .testimonial-img {
-  height: 300px;
-  width: 300px;
+  height: auto;
+  width: 100%;
   overflow: hidden;
 
   border-radius: 10px;
@@ -529,7 +529,7 @@ body {
   transform: scale(1.2);
 }
 .testimonial-img img {
-  height: 100%;
+  height: auto;
   width: 100%;
   transition: all 3s;
 }
