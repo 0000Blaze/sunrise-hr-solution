@@ -518,7 +518,7 @@ body {
   border: 1px solid black;
 }
 .testimonial-img {
-  width: 100px;
+  width: 100%;
   overflow: hidden;
 
   border-radius: 10px;
